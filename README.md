@@ -1,4 +1,4 @@
-#Algorithm and AI Student
+# Algorithm and AI Student
 
-##Education
+## Education
 Electrical Enginner, BSc
